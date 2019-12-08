@@ -5,3 +5,5 @@ eating
 sleeping a lot
 watching tedx talks in youtube
 reading books
+
+done with changes
